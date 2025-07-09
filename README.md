@@ -15,6 +15,7 @@ NeuroScope
 ![WhatsApp Image 2025-07-06 at 22 40 35_f6f9b9ca](https://github.com/user-attachments/assets/c4526985-b716-4e73-bd26-071c481a0ba1)
 
 
+
 ## Daily Scrum
 ![WhatsApp Image 2025-07-09 at 19 26 34 (1)](https://github.com/user-attachments/assets/67beb96b-6636-4679-b4cf-c8651b79301f)
 ![WhatsApp Image 2025-07-09 at 19 26 34](https://github.com/user-attachments/assets/8752796e-5133-479e-a7fd-011e21a4dfa5)
